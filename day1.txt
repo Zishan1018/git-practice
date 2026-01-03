@@ -1,0 +1,2 @@
+Day 1: Learned what Git and GitHub are.
+
