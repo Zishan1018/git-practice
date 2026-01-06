@@ -1,2 +1,3 @@
 Day 1: Learned what Git and GitHub are.
+Day 2: Edited files after cloning repo
 
